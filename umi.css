@@ -65,9 +65,9 @@ body {
 }
 
 @media (max-width: 600px){
-    body {
-        background-color: #a3d7ff;
-    }
+.post-container{
+    grid-template-columns: 1fr;  
+}
 
 
 .post-container{
